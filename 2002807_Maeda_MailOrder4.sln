@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2002807_Maeda_MailOrder4", "2002807_Maeda_MailOrder4\2002807_Maeda_MailOrder4.csproj", "{0AFEFAD4-EE5B-47D1-AE8A-B37FB7364200}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AFEFAD4-EE5B-47D1-AE8A-B37FB7364200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AFEFAD4-EE5B-47D1-AE8A-B37FB7364200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AFEFAD4-EE5B-47D1-AE8A-B37FB7364200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AFEFAD4-EE5B-47D1-AE8A-B37FB7364200}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE13A002-C88A-4FF6-9F8A-84CB250CD72D}
+	EndGlobalSection
+EndGlobal
